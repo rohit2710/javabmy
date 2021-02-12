@@ -1,0 +1,1 @@
+		String sql = "update plans SET sportId=?,planName=?,fees=?,duration=?  where planId=? ";
